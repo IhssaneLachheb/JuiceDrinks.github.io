@@ -792,8 +792,10 @@ section {
 }
 
 @media (max-width: 500px){
-	header .navigation.active{
-		padding-bottom: 5%;
+	header .navigation li{
+		padding: 15px;
+		padding-top; 5px;
+		padding-bottom; 5px;
 	}
 	.changeMe{
 		display: flex;
