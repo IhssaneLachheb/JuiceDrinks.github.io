@@ -792,6 +792,9 @@ section {
 }
 
 @media (max-width: 500px){
+	header .navigation.active{
+		padding-bottom: 5%;
+	}
 	.changeMe{
 		display: flex;
 		flex-direction: row;
@@ -825,6 +828,7 @@ section {
 	}
 	.sousheader{
 		text-align: center;
+		font-size: 0.8em;
 	}
 	.sousheader img{
 		width: 18%;
