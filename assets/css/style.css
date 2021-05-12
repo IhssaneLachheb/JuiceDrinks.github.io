@@ -828,10 +828,12 @@ section {
 	.row .col50 .imgBox{
 		height: 340px;
 	}
-	.sousheader{
-		text-align: center;
-		font-size: 0.8em;
+	.sousheader p{
+		font-weight: 500;
+		font-family: "Brush Script MT", sans-serif;
+		font-size: 1.1em;
 	}
+
 	.sousheader img{
 		width: 18%;
 	}
