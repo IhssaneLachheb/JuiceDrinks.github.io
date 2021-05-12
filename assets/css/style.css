@@ -823,6 +823,9 @@ section {
 	.row .col50 .imgBox{
 		height: 340px;
 	}
+	.sousheader{
+		text-align: center;
+	}
 	.sousheader img{
 		width: 18%;
 	}
