@@ -689,7 +689,7 @@ section {
 		align-items: center;
 		flex-direction: column;
 		background: #fff;
-		padding-bottom: 20%;
+		padding-bottom: 5%;
 	}
 	header .navigation li{
 		margin-left: 0;
